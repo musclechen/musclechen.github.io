@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.5",
-  "minimumSupportedVersion": "1.0.1",
+  "latestVersion": "1.0.0",
+  "minimumSupportedVersion": "1.0.0",
   "forceUpdate": true,
   "appStoreUrl": "https://apps.apple.com/app/idxxxxxxxxxx",
-  "termsVersion": 2,
+  "termsVersion": 1,
   "termsUrl": "https://your-site.com/https://musclechen.github.io/terms-of-use.html",
   "privacyUrl": "https://musclechen.github.io/privacy-policy.html"
 }
