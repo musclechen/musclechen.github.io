@@ -3,7 +3,7 @@
   "minimumSupportedVersion": "1.0.0",
   "forceUpdate": false,
   "appStoreUrl": "https://apps.apple.com/app/idxxxxxxxxxx",
-  "termsVersion": 1,
+  "termsVersion": 2,
   "termsUrl": "https://your-site.com/https://musclechen.github.io/terms-of-use.html",
   "privacyUrl": "https://musclechen.github.io/privacy-policy.html"
 }
