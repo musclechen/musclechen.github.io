@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.0",
-  "minimumSupportedVersion": "1.0.0",
+  "latestVersion": "1.1.0",
+  "minimumSupportedVersion": "1.1.0",
   "forceUpdate": true,
-  "appStoreUrl": "https://apps.apple.com/app/idxxxxxxxxxx",
+  "appStoreUrl": "https://apps.apple.com/us/app/kitchen-match-puzzle-cook/id6765535198",
   "termsVersion": 1,
-  "termsUrl": "https://your-site.com/https://musclechen.github.io/terms-of-use.html",
+  "termsUrl": "https://musclechen.github.io/terms-of-use.html",
   "privacyUrl": "https://musclechen.github.io/privacy-policy.html"
 }
